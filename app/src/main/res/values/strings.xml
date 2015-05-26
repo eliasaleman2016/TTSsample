@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="text">This is sample is about to recognise voice and it will show a toast message
+    and clicking on below button will just show whether the device is capable to recognise the voice or not.
+    Thank you..!</string>
 </resources>
